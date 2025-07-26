@@ -1,0 +1,23 @@
+/* Style for Streamlit App */
+.main {
+    background-color: #f3f9f6;
+}
+
+h1, h2, h3 {
+    color: #1b4332;
+}
+
+.stButton > button {
+    background-color: #2d6a4f;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.stTextInput > div > input {
+    background-color: #d8f3dc;
+}
+
+.sidebar .sidebar-content {
+    background-color: #b7e4c7;
+}

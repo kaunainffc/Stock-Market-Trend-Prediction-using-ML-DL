@@ -1,0 +1,7 @@
+model:
+  lstm_units: 64
+  lstm_epochs: 10
+  lstm_batch_size: 32
+  patience: 3
+data:
+  start_date: '2013-01-01'
