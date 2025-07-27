@@ -12,3 +12,4 @@ plotly==5.15.0
 scipy==1.10.1
 ta==0.10.2
 pillow==9.4.0
+xgboost==1.7.6
